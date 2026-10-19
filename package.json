@@ -1,0 +1,13 @@
+{
+  "name": "touchline-fm-ai-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Touchline FM companion API for AI chat control",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
